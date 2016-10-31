@@ -1,0 +1,293 @@
+body
+{
+	font-family: 'Titillium Web', sans-serif; margin: 0;
+	
+}
+.boss
+{
+	background-color: #87509C;
+	color: white;
+   height: 496px;
+  width: 100%;
+  
+  
+ 
+ 
+}
+
+ul,li{
+	list-style-type: none;
+	
+	
+	
+}
+
+.tap2 {
+	float: right;
+	
+}
+.tap1 {
+	float: left;
+	
+	
+}
+
+.boss h1 
+{
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 110px; 
+	clear: both;
+}
+
+	
+}
+.bossa
+{
+	margin-top: 30px;
+	margin-left: 60px;
+}
+.tap2 ul li{
+	display: inline;
+}
+
+.tap2 ul li a {
+	color: #fff;
+	margin-right: 50px;
+}
+.tap3
+{
+	text-align: center;
+	
+}
+.tap3 button
+{       background-color: #eb7d4b;
+        color: white;
+		height: 70px;
+		width: 300px;
+		margin-left: 10px;
+		
+}
+.tap4{
+	background-color: #17c2a4;
+	color: white;
+   height: 750px;
+  width: 100%;
+  padding-top: 2px;
+}
+
+.tap4 h2 {
+text-align: center;	
+font-size: 40px;
+margin-top: 100px;
+}
+.tap4 p {
+	text-align: center;
+	font-size: 20px;
+	
+}
+.tap5  {
+	text-align: center;
+	width: 260px;
+	height: 310px;
+	display: inline-block;
+	margin-left: 80px;
+	padding-top: 20px:
+	
+			
+}
+.tap6{
+	background-color: #e7f1f8;
+	color: #3c4761;
+   height: 916px;
+  width: 100%;	
+  padding-top: 2px;
+}
+.tap6 h3{
+	text-align: center;
+	font-size: 40px;
+	margin-top: 50px;
+	
+}
+.tap6 p {
+	text-align: center;
+	font-size: 20px;
+	padding-top: 20px;
+}
+.tap6 .tap5 .colorblue {
+	color: #30bae7;
+}
+
+.tap7 {
+	background-color: #ffffff;
+	color: #3c4761; 
+   height: 658px; 
+  width: 100%;
+  padding-top: 2px;
+  
+}
+.tap7 h3 {
+	text-align: center;
+	font-size: 40px;
+	margin-top: 50px;
+	}
+	
+.tap7 p {
+	text-align: center;
+	font-size: 20px;
+	padding-top: 5px;
+		
+}
+
+.tap8 {
+background-color: #ffdd99;
+	color: #393939; 
+   height: 1426px; 
+  width: 100%;
+  padding-top: 2px;	
+}
+ .tap8 H3 {
+	 text-align: center;
+	font-size: 40px;
+	margin-top: 50px;
+ }
+ 
+.tap8 p {
+	text-align: center;
+	font-size: 20px;
+	
+}
+
+
+.nav {
+	padding: 0; margin: 0;
+	text-align: center; /* centrer le texte */
+}
+.nav li {
+	display: inline;
+	list-style: none;
+}
+.nav a {
+	display:inline-block;
+	margin:  5px;
+	color: #000;
+	text-decoration: none;
+	background-color: #ebc985;
+        color: #000;
+		height: 38px;
+		width: 84px;
+}
+.tapx {
+	text-align: center;
+	width: 540px;
+	height: 316px;
+	display: inline-block;
+	margin-left: 110px;
+	margin-top: 100px;
+}
+.tap20 button
+{
+	 background-color: #17c2a4;
+        color: white;
+		height: 71px;
+		width: 288px;
+		text-align: center;
+		
+}
+button {
+	margin-left: 550px;
+	margin-top: 100px;
+	
+}
+.tap10 {
+	background-color: #d74680;
+	color: #ffffff; 
+   height: 894px; 
+  width: 100%;
+  padding-top: 2px;
+}
+.tap10 h4 {
+	text-align: center;
+	font-size: 40px;
+	margin-top: 50px;
+}
+
+.tap10 p {
+	text-align: center;
+	font-size: 20px;
+}
+.tapx .orange  {
+	color: #f5bd93;
+	font-size: 20px;
+}
+
+.tap11
+{
+	background-color: #3c5499;
+	color: #ffffff; 
+   height: 931px; 
+  width: 100%;
+  padding-top: 2px;
+}
+
+.tap11 h5 {
+	text-align: center;
+	font-size: 40px;
+	margin-top: 50px;
+}	
+.tap11 p {
+	text-align: center;
+	font-size: 20px;
+}
+.navo {
+	padding: 0; margin: 0;
+	margin-left: 330px
+}
+.navo li {
+	display: inline;
+	list-style: none;
+}
+.navo a {
+	display:inline-block;
+	margin:  5px;
+	color: #000;
+	text-decoration: none;
+	background-color: #273a71;
+
+        color: #000;
+		height: 55px;
+		width: 418px;
+		}
+		
+.navo1{
+	padding: 0; margin: 0;
+	margin-left: 330px
+	
+}
+.navo1 li{
+	display: inline;
+	list-style: none;
+}
+.navo1 a {
+	display:inline-block;
+	margin:  5px;
+	color: #000;
+	text-decoration: none;
+	background-color: #273a71;
+
+        color: #000;
+		height: 197px;
+		width: 859px;
+		}		
+
+.tap56 button {
+
+	 background-color: #30bae7;
+        color: white;
+		height: 66px;
+		width: 292px;
+		text-align: center;
+		
+		}
+		
+		
