@@ -1,0 +1,168 @@
+body,html  {
+width: 100%;
+
+}
+body {
+	margin:0;
+	padding:0;
+	background-color: #515368;
+
+}
+
+p,h2 {
+	margin: 0;
+
+}
+.tap6{
+	background:  url("teste5.png") no-repeat center; 
+	clear: both;
+	height: 241px;
+	background-size: contain;
+	color: #cdcdcb;
+	font-size: 20px;	
+}
+.tap6 h1 {
+color: #ffffff;
+font-size: 40px;
+
+}
+.fond1 {
+	background: url("teste1.png") no-repeat center; 
+	height: 842px;
+	width: 100%;
+	clear: both;
+	background-size: coutain;
+	color: white;
+	
+}
+
+
+.fond1 h1 {
+	color: #ffffff;
+}
+
+.bossa {
+	float: left;
+	
+}
+.bossa img {
+	margin-top: 10px;
+}
+.tap1 {
+	float: right;
+	margin-right: 60px;
+}	
+.tap1 ul {
+	margin-top: 60px;
+}
+.tap1 ul li{
+	display: inline;
+	
+
+
+}
+
+.tap1 ul li a {
+	color: #cdcdcb;
+	margin-right: 50px;
+	text-decoration: none;
+
+	
+}
+.tap2 button{
+      	background-color: Transparent;
+        color:  #ffffff;
+		height: 68px;
+		width: 238px;
+		margin-left: 2px;
+		cursor:pointer;
+		margin-top: 25px;
+
+		
+}
+
+.tap3 {
+	
+	float: right;
+	
+}
+.clear-both {
+	clear: both;
+	padding-top: 300px;
+}
+.tap4 {
+	
+	text-align: center;
+	width: 33%;
+	display: inline-block;
+}
+.tap4 .style {
+	font-size: 150px;
+	color: #ffffff;
+	
+	
+
+}
+sup {
+	font-size: 50px;
+}
+.fond2 {
+	background-color: #62647d;
+	clear: both;
+	color: white;
+
+
+}
+
+
+.fond4 {
+	background-color: #31303e;
+	clear: both;
+	color: white;
+
+}
+.fond3 {
+	display: inline-block;
+	width: 49%;
+	vertical-align: middle;
+}
+.bgcar img {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+}
+.couleur {
+		color: c1c0c5;
+}
+.tape56 {
+		background-color: #ffffff;
+		height: 289px;
+		width: 1920px;
+		 
+}
+.tape135 button {
+	background-color: #24242e;
+        color: white;
+		height: 93px;
+		width: 519px;
+		margin-left: 10px;
+
+
+
+		
+}
+.tape135 {
+	vertical-align: middle;
+	text-align: center;
+	margin-right: 398px;
+    padding-top: 76px;
+}
+.couleur2 {
+	color:#24242e;
+	padding-top: 40px;
+}
+.final {
+	background-color: #62647d;
+	height: 123px;
+	width: 1910px;
+}
